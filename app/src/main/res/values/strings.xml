@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookManagement</string>
+    <string name="hintBookName">Tên sách</string>
+    <string name="hintAuthor">Tác giả</string>
+    <string name="hintUsername">Tên đăng nhập</string>
+    <string name="hintPassword">Mật khẩu</string>
+    <string name="txtLogin">đăng nhập</string>
+    <string name="hintKeyword">tìm kiếm</string>
+</resources>
